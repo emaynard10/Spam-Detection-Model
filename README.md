@@ -5,6 +5,8 @@ This code is an example of using a Logistic Regression and Random Forest Classif
 Python, Pandas, Jupyter Notebooks, SKLearn
 
 ## Goal
+The dataset contains information about emails, with two possible classifications: spam and not spam.  The  goal is to take this dataset and develop a supervised machine learning model that will accurately detect spam emails, so it can filter them out of customers' inboxes.
+
 ## Steps
 1. Retrieve the Data: The data is imported using Pandas and displayed to confirm the import was successful.
 2. Predict Model Performance: A prediction is made as to which model will perform better.
