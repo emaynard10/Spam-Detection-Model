@@ -19,5 +19,7 @@ The dataset contains information about emails, with two possible classifications
 9. Evaluate the Models: Compare the two models. The Random Forest Classifier performed better, which is as predicted. 
 
 ## Usage
+The better RadomForest model could be used to weed out spam in inboxes. 
 
-## Considerations
+## Futuer Considerations
+The model for this project did not require considerations of model optimization or imbalanced data. These could be taken into account for future model developement. The project uses accuracy score to determine the success of the model, but other metrics could also be considered. In this case we would want to maximize the precision of the spam(1) and maximize the recall of non spam (0). 
