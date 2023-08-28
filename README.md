@@ -6,9 +6,11 @@ This code is an example of using a Logistic Regression and Random Forest Classif
 
 ## Technologies Used
 Python, Pandas, Jupyter Notebooks, SKLearn
+![image](https://github.com/emaynard10/Spam-Detection-Model/assets/99676466/26647388-235e-4a7d-8b65-f542685f5fa1)
+
 
 ## Goal
-The dataset contains information about emails, with two possible classifications: spam and not spam.  The  goal is to take this dataset and develop a supervised machine learning model that will accurately detect spam emails, so it can filter them out of customers' inboxes.
+The dataset contains information about emails, with two possible classifications: spam and not spam.  The  goal is to take this dataset and develop a supervised machine learning model that will accurately detect spam emails(spam (1) or not (0), so it can filter them out of customers' inboxes.
 
 ## Steps
 1. Retrieve the Data: The data is imported using Pandas and displayed to confirm the import was successful.
