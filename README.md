@@ -6,6 +6,7 @@ This code is an example of using a Logistic Regression and Random Forest Classif
 
 ## Technologies Used
 Python, Pandas, Jupyter Notebooks, SKLearn
+
 ![image](https://github.com/emaynard10/Spam-Detection-Model/assets/99676466/26647388-235e-4a7d-8b65-f542685f5fa1)
 
 
